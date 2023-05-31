@@ -1,4 +1,4 @@
-/data
-/reports
+#/data
+#/reports
 .DS_Store
 .idea/
